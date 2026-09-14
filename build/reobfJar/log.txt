@@ -186,5 +186,10 @@ Writing Output: C:\Users\Administrator\Desktop\PaintingOfMCMOD-main\build\reobfJ
   cn/mcmod/painting/PaintingOfMCMOD.class
   cn/mcmod/painting/mixin/
   cn/mcmod/painting/mixin/PaintingRendererMixin.class
+  data/
+  data/minecraft/
+  data/minecraft/tags/
+  data/minecraft/tags/painting_variant/
+  data/minecraft/tags/painting_variant/placeable.json
   pack.mcmeta
   paintingofmcmodforge.mixins.json
